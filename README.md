@@ -28,13 +28,13 @@ This tool is a user-friendly Python script for monitoring and enhancing the syst
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/IddoxLatifi/HealthTool
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd HealthTool
 ```
 
 Install dependencies
